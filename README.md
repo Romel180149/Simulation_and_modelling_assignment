@@ -19,7 +19,7 @@ This repository contains Python scripts for two simulations:
 
 ---
 
-## **Setup Instructions**
+## **Setup Instructions for Linux(Ubuntu)**
 1. Run `python3 -m venv myenv` to create the environment.
 2. Activate it with `source myenv/bin/activate`.
 3. Install packages as needed with `pip install <package-name>`.
